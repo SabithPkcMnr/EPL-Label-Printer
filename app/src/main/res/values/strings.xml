@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ELP Printer</string>
+    <string name="bt2">BT2.0</string>
+    <string name="enumport">Enum Port</string>
+    <string name="openport">Open Port</string>
+    <string name="closeport">Close Port</string>
+
+</resources>
