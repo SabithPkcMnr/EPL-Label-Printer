@@ -5,7 +5,7 @@
     android:padding="20dp"
     android:orientation="vertical">
 
-    <com.sabithpkcmnr.elpprinter.ComboBox
+    <com.sabithpkcmnr.eplprinter.ComboBox
         android:id="@+id/cbxLisbBT2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

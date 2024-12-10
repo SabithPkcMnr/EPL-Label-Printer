@@ -1,4 +1,4 @@
-package com.sabithpkcmnr.elpprinter;
+package com.sabithpkcmnr.eplprinter;
 
 import android.app.Activity;
 import android.graphics.Bitmap;

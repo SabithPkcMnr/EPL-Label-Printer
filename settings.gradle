@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ELP Printer"
+rootProject.name = "EPL Printer"
 include ':app'

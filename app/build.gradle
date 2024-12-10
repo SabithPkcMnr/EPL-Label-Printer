@@ -3,10 +3,10 @@ plugins {
 }
 
 android {
-    namespace 'com.sabithpkcmnr.elpprinter'
+    namespace 'com.sabithpkcmnr.eplprinter'
     compileSdk 34
     defaultConfig {
-        applicationId "com.sabithpkcmnr.elpprinter"
+        applicationId "com.sabithpkcmnr.eplprinter"
         minSdk 26
         targetSdk 34
         versionCode 1
